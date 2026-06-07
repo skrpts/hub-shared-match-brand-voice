@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "af0c6e9a-99b2-41f9-b8e1-c5439a5fb394"
+id: "0365ed19-3a14-4165-beef-d97e2adb8e2c"
 name: "match-brand-voice"
 display_name: "Match Brand Voice"
 description: "Adjusts content to align with established brand voice guidelines"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
